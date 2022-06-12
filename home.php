@@ -31,7 +31,7 @@
     </div>
     <div class="column" align="right">
     
-    <img src="" style="width: 300px; border-radius: 14px !important;">
+    <img src="assets/my_picture.jpeg" style="width: 300px; border-radius: 14px !important;">
 
     </div>
     </div>
