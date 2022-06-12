@@ -5,7 +5,7 @@
         </TITLE>
         <link rel="stylesheet" href="https://rishavkumar.io/styles.css">
     </HEAD>
-    <section class="section" style="background-color: #FFB6C1">
+    <section class="section">
 
     <body>
 
