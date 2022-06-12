@@ -31,7 +31,7 @@
     </div>
     <div class="column" align="right">
     
-    <img src="https://rishavkumar.io/assets/faculty_headshot.jpg" style="width: 300px; border-radius: 14px !important;">
+    <img src="" style="width: 300px; border-radius: 14px !important;">
 
     </div>
     </div>
