@@ -26,7 +26,7 @@
 
     <p class="mt-5"></p>
 
-     <button onclick="document.location.href='https://rishavkumar.io/veda/resume.pdf'" class="button is-link">Résumé</button>
+     <button onclick="document.location.href='https://vedagajula.com/resume.pdf'" class="button is-link">Résumé</button>
 
     </div>
     <div class="column" align="right">
